@@ -1,1 +1,3 @@
 Wstep do ksiazki
+
+Przewodnik po testowaniu manualnym
